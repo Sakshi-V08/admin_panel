@@ -1,6 +1,6 @@
 # Admin_Panel
 This Simple Admin Panel is in PHP, javascript, and CSS. Talking about the features of this system, it contains only the Admin section. The admin can view all the records of the added products, categories, sizes, and variations. Also, you can edit or delete any details as per the requirements.
-###How To Run The Project?
+### How To Run The Project?
 To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). 
 1st Step: Extract the file
 2nd Step: Copy the main project folder
